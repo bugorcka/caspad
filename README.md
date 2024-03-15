@@ -4,12 +4,12 @@ Caspad
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](https://choosealicense.com/licenses/isc/)
 [![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/casklas/caspad/)
 
-Caspad is the reference full node Caspa Classic implementation written in Go (golang).
+Caspad is the reference full node Kaspa Classic implementation written in Go (golang).
 
 ## What is Caspa Classic
 
 Caspa Classic is a fork of Kaspa with an ASIC resistance implementation
-Kaspa is an attempt at a proof-of-work cryptocurrency with instant confirmations and sub-second block times. It is based on [the PHANTOM protocol](https://eprint.iacr.org/2018/104.pdf), a generalization of Nakamoto consensus.
+CAS is an attempt at a proof-of-work cryptocurrency with instant confirmations and sub-second block times. It is based on [the PHANTOM protocol](https://eprint.iacr.org/2018/104.pdf), a generalization of Nakamoto consensus.
 
 ## Requirements
 
@@ -31,12 +31,13 @@ $ go version
 - Run the following commands to obtain and install caspad including all dependencies:
 
 ```bash
-$ git clone https://github.com/casklas/caspad/
+$ git clone https://github.com/kaspaclassic/caspad/
 $ cd caspad
 $ go install . ./cmd/...
+$ build.sh
 ```
 
-- Nautiliad (and utilities) should now be installed in `$(go env GOPATH)/bin`. If you did
+- CAS (and utilities) should now be installed in `$(go env GOPATH)/bin`. If you did
   not already add the bin directory to your system path during Go installation,
   you are encouraged to do so now.
   
@@ -96,18 +97,26 @@ Note: Every time you ask caswallet for an address you will get a different addre
 At this point your can close the wallet daemon, though you should keep it running of you want to be able to check your balance and make transactions
 
 
-## Discord
+Website
+Join our website server using the following link: https://kaspaclassic.com/
+
+Twitter
+Join our twitter server using the following link: https://twitter.com/kaspaclassic
+
+Discord
 Join our discord server using the following link: https://discord.com/invite/kaspaclassic1
+
+Telegram
+Join our telegram server using the following link: https://t.me/kaspaclassic
 
 ## Issue Tracker
 
 The [integrated github issue tracker](https://github.com/casklas/caspad/issues)
 is used for this project.
 
-
 ## Documentation
 
-The [documentation](https://github.com/casklas/docs) is a work-in-progress
+The [documentation](https://github.com/) is a work-in-progress
 
 ## License
 
