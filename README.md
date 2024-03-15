@@ -8,7 +8,7 @@ Caspad is the reference full node Kaspa Classic implementation written in Go (go
 
 ## What is Caspa Classic
 
-Caspa Classic is a fork of Kaspa with an ASIC resistance implementation
+Kaspa Classic is a fork of Kaspa with an ASIC resistance implementation
 CAS is an attempt at a proof-of-work cryptocurrency with instant confirmations and sub-second block times. It is based on [the PHANTOM protocol](https://eprint.iacr.org/2018/104.pdf), a generalization of Nakamoto consensus.
 
 ## Requirements
