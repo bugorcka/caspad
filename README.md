@@ -1,12 +1,12 @@
-Caspad
+caspad
 ========
 
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](https://choosealicense.com/licenses/isc/)
 [![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/casklas/caspad/)
 
-Caspad is the reference full node Kaspa Classic implementation written in Go (golang).
+caspad is the reference full node Kaspa Classic implementation written in Go (golang).
 
-## What is Caspa Classic
+## What is Kaspa Classic
 
 Kaspa Classic is a fork of Kaspa with an ASIC resistance implementation
 CAS is an attempt at a proof-of-work cryptocurrency with instant confirmations and sub-second block times. It is based on [the PHANTOM protocol](https://eprint.iacr.org/2018/104.pdf), a generalization of Nakamoto consensus.
