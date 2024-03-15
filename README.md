@@ -84,7 +84,7 @@ $ caswallet new-address
 - Your screen will show you something like this:
 
 The wallet address is:
-cas:qq4czu3ekw3xjt4zz0ma552gymedwjpw9qrn2de9huswc5fgxj56zxqj76cd6
+cas:qrcdkznrnl6243dz7272lslp6u44jv8aez30j2ql2zmt5lu4tu056q2lh39kz
 
 - To see your secret seed phrase :
 
